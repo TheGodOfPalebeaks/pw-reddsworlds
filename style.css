@@ -1,0 +1,12 @@
+h1, p, hr {
+	color: slateblue;
+	border-color: slateblue;
+}
+
+h2 {
+	color: darkslateblue;
+}
+
+#stella {
+	color: crimson;
+}
